@@ -1,5 +1,3 @@
-# terraform-class-combined
-
 ## Summary
 
 _This terraform module will create AWS RDS Cluster._
